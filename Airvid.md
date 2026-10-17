@@ -1,1 +1,5 @@
-# Airvid
+
+{
+  "LockApp": false,
+  "Link": "https://t.me/AZEEDITINGZONE"
+}
